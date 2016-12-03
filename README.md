@@ -1,5 +1,4 @@
-Arjun Bharadwaj
-Christopher Lock
+Arjun Bharadwaj, Christopher Lock
 
 Project Report.pdf - The main pdf summarizing our reports
 
